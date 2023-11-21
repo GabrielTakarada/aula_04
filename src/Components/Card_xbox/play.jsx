@@ -44,7 +44,7 @@ export default function Box() {
           style={{
             maxWidth: "185px",
             alignItems: "center",
-            marginLeft: "32%",
+            marginLeft: "35%",
             marginTop: "10px",
             marginBottom: "5px",
           }}

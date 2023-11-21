@@ -29,7 +29,10 @@ export default function Menu() {
             <Button Text="Loja"></Button>
           </CardActions>
         </Link>
-        <Link href="/signin" underline="none">
+        <Link
+          href="https://github.com/GabrielTakarada/aula_04"
+          underline="none"
+        >
           <CardActions style={{ marginBottom: "10px" }}>
             <Button Text="Git Hub"></Button>
           </CardActions>
